@@ -1,0 +1,162 @@
+<resources>
+    <string name="app_name">Doa_Anak_Shaleh</string>
+
+    <!--Doa 1 -->
+
+    <string name="doa_arab"> اَللّهُمَّ اغْفِرْلِيْ وَلِوَالِدَيَّ وَارْحَمْهُمَاكَمَارَبَّيَانِيْ صَغِيْرَا</string>
+    <string name="doa_indo"> "Rabbighfirlii Waliwaa lidayya Warhamhumaa Kamaa Rabbayaanii Shaghiiraa"</string>
+    <string name="doa_arti"> Artinya : \n\n "Ya Allah, ampunilah aku dan kedua orang tuaku, dan sayangilah mereka sebagaimana mereka telah memelihara / mendidikku sewaktu kecil"</string>
+
+    <!--Doa 2 -->
+    <string name="doa_arab2"> AYAT</string>
+    <string name="doa_indo2"> "Allahumma Baarik Lanaa Fiima Razaqtanaa wa Qinaa 'Adzaaban-Nar"</string>
+    <string name="doa_arti2"> Artinya : \n\n "Yaa Allah, berkatilah rezeki yang engkau berikan kepada kami, dan peliharalah kami dari siksa api neraka"</string>
+
+    <!--Doa 3 -->
+
+    <string name="doa_arab3"> AYAT</string>
+    <string name="doa_indo3"> "Alhamdulillahiladzii Ath'amanaa wa Saqaanaa wa Ja'alanaa Minal Muslimiin"</string>
+    <string name="doa_arti3"> Artinya : \n\n "Segala puji bagi Allah yang telah memberi kami makan dan minum, dan yang menjadikan kami daripada kalangan umat islam"</string>
+
+    <!--Doa 4 -->
+
+    <string name="doa_arab4"> AYAT</string>
+    <string name="doa_indo4"> "Bismika Allahumma Ahyaa wa Bismika Amuut"</string>
+    <string name="doa_arti4"> Artinya : \n\n "Dengan menyebut nama-Mu, Ya Allah, aku hidup, dan dengan menyebut Nama-Mu aku mati"</string>
+
+    <!--Doa 5 -->
+
+    <string name="doa_arab5"> AYAT</string>
+    <string name="doa_indo5"> "Alhamdulillaahilladzii Ahyaanaa Ba'da maa Amaatanaa Wailaihin Nusyuur"</string>
+    <string name="doa_arti5"> Artinya : \n\n "Segala puji bagi Allah yang menghidupkan kami kembali setelah mematikan kami dan kepada-Nya (kami) akan dibangkitkan"</string>
+
+    <!--Doa 6 -->
+
+    <string name="doa_arab6"> AYAT</string>
+    <string name="doa_indo6"> "Allahumma Innii A'uudzu Bika Minal Khubutsi wal Khabaaits"</string>
+    <string name="doa_arti6"> Artinya : \n\n "Ya Allah, sesungguhnya aku berlindung kepada-Mu dari syaitan laki-laki dan syaitan perempuan"</string>
+
+    <!--Doa 7 -->
+
+    <string name="doa_arab7"> AYAT</string>
+    <string name="doa_indo7"> "Alhamdulillaahil-Ladzi Adzhab 'Annil Adzaa Wa'aafaanii"</string>
+    <string name="doa_arti7"> Artinya : \n\n "Segala puji bagi Allah yang telah menghilangkan kotoranku dan membuatku sehat"</string>
+
+    <!--Doa 8 -->
+
+    <string name="doa_arab8"> AYAT</string>
+    <string name="doa_indo8"> "Rabbisyrahlii Shadrii wa Yassirlii Amrii Wahlul 'Uqdatam-Mil-Lisaanii Yafqahuu Qaulii"</string>
+    <string name="doa_arti8"> Artinya : \n\n "Wahai Tuhanku, lapangkanlah dadaku dan mudahkanlah pekerjaanku dan lancarkanlah lidahku, agar mereka faham pembicaraanku"</string>
+
+    <!--Doa 9 -->
+
+    <string name="doa_arab9"> AYAT</string>
+    <string name="doa_indo9"> "Rabbi Zidnii 'ilmaa, Warzuqnii Fahmaa"</string>
+    <string name="doa_arti9"> Artinya : \n\n "Ya Allah Tambahkanlah aku ilmu dan berilah aku karunia untuk dapat memahaminya"</string>
+
+    <!--Doa 10 -->
+
+    <string name="doa_arab10"> AYAT</string>
+    <string name="doa_indo10"> "Allahumma Arinal Haqqa Haqqan Warzuqnattibaa'ah, Wa Arinalbaathila Baa-Thilan Warzuqnajtinaabah"</string>
+    <string name="doa_arti10"> Artinya : \n\n "Ya Allah, tunjukkanlah kepada kami kebenaran sehingga kami dapat mengikutinya. Dan tunjukkanlah kepada kami kejelekan sehingga kami dapat menjauhinya"</string>
+
+    <!--Doa 11 -->
+
+    <string name="doa_arab11"> AYAT</string>
+    <string name="doa_indo11"> "Allahumma Innii As-aluka min Khairihi wa Khairi maa Huwa lah, Wa-a'uudzuubika min Syarrihi wa Syarri maa Huwa lah"</string>
+    <string name="doa_arti11"> Artinya : \n\n "Ya Allah, Sesungguhnya aku memohon kepada-Mu dari kebaikan pakaian ini dan kebaikan yang ada padanya. Dan aku berlindung kepada-Mu dari kejahatan pakaian ini dan kejahatan yang ada padanya"</string>
+
+    <!--Doa 12 -->
+
+    <string name="doa_arab12"> AYAT</string>
+    <string name="doa_indo12"> "Bismillahilladzi laa ilaaha illaa Huwa"</string>
+    <string name="doa_arti12"> Artinya : \n\n "Dengan nama Allah, tiada tuhan selain Dia"</string>
+
+    <!--Doa 13 -->
+
+    <string name="doa_arab13"> AYAT</string>
+    <string name="doa_indo13"> "Allahumma Kamaa Hassanta Khalqii Fahassin Khuluqii"</string>
+    <string name="doa_arti13"> Artinya : \n\n "Ya Allah sebagaiman Engkau telah ciptakan aku dengan baik, maka perbaikilah akhlakku"</string>
+
+    <!--Doa 14 -->
+
+    <string name="doa_arab14"> AYAT</string>
+    <string name="doa_indo14"> "Allahumma Harrim Sya'rii wa Basyarii Minanaar"</string>
+    <string name="doa_arti14"> Artinya : \n\n "Ya Allah, halangilah rambut dan kulitku dari api neraka"</string>
+
+    <!--Doa 15 -->
+
+    <string name="doa_arab15"> AYAT</string>
+    <string name="doa_indo15"> "Bismillaahi Walajnaa wa Bismillaahi Kharajnaa wa 'Ala Rabbinaa Tawakkalnaa"</string>
+    <string name="doa_arti15"> Artinya : \n\n "Dengan nama Allah kami masuk (rumah) dan dengan nama Allah kami keluar (rumah), dan kepada Allah aku berserah diri"</string>
+
+    <!--Doa 16 -->
+
+    <string name="doa_arab16"> AYAT</string>
+    <string name="doa_indo16"> "Bismillaahi Walajnaa Tawakkaltu 'Alallaahi wa laa Haulaa wa laa Quwwata illaa Billaah"</string>
+    <string name="doa_arti16"> Artinya : \n\n "Dengan nama Allah, aku menyerahkan diriku pada Allah dan tidak ada daya dan kekuatan selain dengan Allah saja"</string>
+
+    <!--Doa 17 -->
+
+    <string name="doa_arab17"> AYAT</string>
+    <string name="doa_indo17"> "Subhaanalladzii Sakhkharalanaa Haadzaa Wamaa Kunnaa Lahuu Muqriniina wa Innaa ilaa Rabbinaa Lamunqolibuun"</string>
+    <string name="doa_arti17"> Artinya : \n\n "Maha Suci (Tuhan) yang telah menundukkan semua ini bagi kami padahal kami sebelumnya tidak mampu menguasainya dan sesungguhnya kami akan kembali kepada Tuhan kami"</string>
+
+    <!--Doa 18 -->
+
+    <string name="doa_arab18"> AYAT</string>
+    <string name="doa_indo18"> "Allahummaf-tahlii Abwaaba Rahmatik"</string>
+    <string name="doa_arti18"> Artinya : \n\n "Wahai Tuhanku, bukakanlah untukku pntu-pintu rahmat-MU"</string>
+
+    <!--Doa 19 -->
+
+    <string name="doa_arab19"> AYAT</string>
+    <string name="doa_indo19"> "Allahumma Innii As-aluka Min Fadhlik"</string>
+    <string name="doa_arti19"> Artinya : \n\n "Wahai Tuhanku, sesunguhnya aku memohon kepada-Mu akan segala keutamaan-Mu"</string>
+
+    <!--Doa 20 -->
+
+    <string name="doa_arab20"> AYAT</string>
+    <string name="doa_indo20"> "Allahummaghfirlii Dzam-bii, Wawassi' Lii Fii Daarii, Wabaarik-Lii Fii Rizqii"</string>
+    <string name="doa_arti20"> Artinya : \n\n "Ya Allah, ampunilah dosaku, lapangkanlah rumahku, dan berkahilah rezekiku"</string>
+
+    <!--Doa 21 -->
+
+    <string name="doa_arab21"> AYAT</string>
+    <string name="doa_indo21"> "Asyhadu Allaa Ilaaha Illallah, Wahdahu Laa Syariika Lah, Wa Asyhadu Anna Muhammadan 'Abduhu wa Rasuuluh. Allahummaj'alnii Minat-Tawwabiina,
+                                Waj'alnii Minal Mutathahhiriin, Waj'alnii min 'ibaadikash Sholihiin"</string>
+    <string name="doa_arti21"> Artinya : \n\n "Aku bersaksi bahwa tiada tuhan melainkan Allah dan tidak ada yang menyekutukanNya. Aku bersaksi bahwa Nabi Muhammad adalah hamba-Nya dan utusan-Nya." \n
+                                Ya Allah, jadikanlah aku orang yang ahli bertobat, jadikanlah aku orang yang suci, dan jadikanlah aku dari golongan orang-orang yang shaleh"</string>
+
+    <!--Doa 22 -->
+
+    <string name="doa_arab22"> AYAT</string>
+    <string name="doa_indo22"> "Nawaitul Wudhuu-a Liraf'il Hadatsil Ashghori Fardhal-Lillahi Ta'aalaa"</string>
+    <string name="doa_arti22"> Artinya : \n\n "Sahaja saya niat berwudhu untuk menghilangkan hadats kecil fardhu karena Allah semata"</string>
+
+    <!--Doa 23 -->
+
+    <string name="doa_arab23"> AYAT</string>
+    <string name="doa_indo23"> "Rabbanaa Aatinaa Fiddun-yaa Hasanah, wa Fil-Aakhirati Hasanah, wa Qinaa 'Adzaabannaar"</string>
+    <string name="doa_arti23"> Artinya : \n\n "Ya Tuhan kami, berilah kami kebaikan di dunia dan kebaikan di akhirat, dan periharalah kami dari siksa api neraka</string>
+
+    <!--Doa 24 -->
+
+    <string name="doa_arab24"> AYAT</string>
+    <string name="doa_indo24"> "Allahumma Shayyiban Naafi'an"</string>
+    <string name="doa_arti24"> Artinya : \n\n "Ya Allah, (jadikan hujan ini) hujan yang membawa manfaat"</string>
+
+    <!--Doa 25 -->
+
+    <string name="doa_arab25"> AYAT</string>
+    <string name="doa_indo25"> "Subhaanalladzii Yusabbihur-Ra'du Bihamdihi Wa Malaaikatu Min Khiifatih"</string>
+    <string name="doa_arti25"> Artinya : \n\n "Maha Suci Allah yang petir bertasbih memuji-Nya begitu juga para malaikat karena takut kepada-Nya"</string>
+
+    <!--Doa 26 -->
+
+    <string name="doa_arab26"> AYAT</string>
+    <string name="doa_indo26"> "Allahumma Inni As-aluka Khairahaa wa Khaira Maa Ursilat Bihi wa-a'uudzu Bika Min Syarrihaa Fiihaa wa Syarri Maa Ursilat Bih"</string>
+    <string name="doa_arti26"> Artinya : \n\n "Ya Allah sesungguhnya aku memohon kepada-Mu kebaikan angin ini dan kebaikan yang ada padanya dan kebaikan yang dibawanya.
+                                Dan aku berlindung kepada-Mu dari keburukan angin ini dan keburukan yang ada padanya dan keburukan yang dibawanya"</string>
+
+</resources>
